@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Start on Github Pages using Jekyll for blogging on Data Science Projects.
+
+The content should include the processes followed during projects, & the breakdown in logic. The intent of the block is to widely share my perspective on how to tackle various Data Science Projects, with the intent of receiving sognificant feedback for improvement.
 
 You can use the [editor on GitHub](https://github.com/teddywaweru/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
